@@ -6,11 +6,11 @@
 
 <hr height='2px' />
 
-<h3> Languages and Tools I Know: </h3>
+### Languages and Tools I Know: 
 <div style="display:flex">
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" height="50px" style="margin-right:10px"/>
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" height="50px" style="margin-right:10px"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" height="50px" style="margin-right:10px"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" height="50px" style="margin-right:10px"/>
-  <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" height="50px" style="margin-right:10px"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" height="40px" style="margin-right:10px"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" height="40px" style="margin-right:10px"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" height="40px" style="margin-right:10px"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" height="40px" style="margin-right:10px"/>
+  <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" height="40px" style="margin-right:10px"/>
 </div>

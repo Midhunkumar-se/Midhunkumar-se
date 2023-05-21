@@ -2,7 +2,7 @@
 
 <p>I am <b> Midhun Kumar</b>. I enjoy building the <b>front-end web application</b>, working on both <b>front-end</b> and <b>back-end</b>. I am always striving to learn and <b>develop new skills</b> and become a better software engineer.</p>
 
-<p>Feel free to visit my portfolio website <a href="https://midhunkumar.netlify.app/">midhunkumar.netlify.app</a> to find more about me and explore some of my recent projects.</p>
+<p>Feel free to visit my portfolio website <a target="_blank" href="https://midhunkumar.netlify.app/">midhunkumar.netlify.app</a> to find more about me and explore some of my recent projects.</p>
 
 <hr height='2px' />
 

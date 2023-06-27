@@ -12,5 +12,5 @@
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" height="40px" style="margin-right:10px"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" height="40px" style="margin-right:10px"/>
   <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" height="40px" style="margin-right:10px"/>
-  <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" height="40px" style="margin-right:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/768px-Sass_Logo_Color.svg.png?20150315202757" height="40px" style="margin-right:10px"/>
 </div>
